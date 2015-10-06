@@ -36,3 +36,11 @@ development.
 
 Slides: [slideshare](http://www.slideshare.net/vengat92/remote-control-your-pc-using-python-and-kivy)
 
+#### July 2014
+
+#### Unit Testing with Nose
+
+This talk is about, how to write a unit testing using Nose framework. Nose extends unittest
+to makes testing easier.
+
+Slides: [slideshare](http://www.slideshare.net/vengat92/unit-testing-with-nose)
