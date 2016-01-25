@@ -5,7 +5,7 @@ This repository contains all my presenation documents
 
 ### Talks [@chennaipy](http://chennaipy.org)
 
-#### Janvary 2016
+#### January 2016
 
 ##### Integrating an application with ERPNext [Lightning Talk]
 
