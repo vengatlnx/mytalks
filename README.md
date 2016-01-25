@@ -5,6 +5,15 @@ This repository contains all my presenation documents
 
 ### Talks [@chennaipy](http://chennaipy.org)
 
+#### Janvary 2016
+
+##### Integrating an application with ERPNext [Lightning Talk]
+
+This talk is about, how we integrate an application with ERPNext
+to solve our problem.
+
+Slides: [slideshare](https://www.slideshare.net/secret/adidv65CtXUKa0)
+
 #### July 2015
 
 ##### Automating things using Selenium
